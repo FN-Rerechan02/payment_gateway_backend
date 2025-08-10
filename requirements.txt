@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+requests
+python-dotenv
+qrcode
+Pillow
+python-multipart
